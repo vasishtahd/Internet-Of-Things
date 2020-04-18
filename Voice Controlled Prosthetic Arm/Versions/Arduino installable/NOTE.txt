@@ -1,0 +1,41 @@
+*****************************************************************************************************************************
+NSK ELECTRONICS,S.P.ROAD BANGALORE 														
+*****************************************************************************************************************************
+
+
+Important Hints
+
+1.Install arduino software(double click arduino application file from cd) 
+
+2.Connect the hardware 
+
+3.windows Popup Appers to Install USB drivers for FTDI chip FT232 RL     (  Latest drivers u can find in  http://www.ftdichip.com/Drivers/VCP.htm  )  
+
+4.Install the USB drivers from arduino    Localdisk(c)\programfiles\Arduino\drivers
+
+5.After Installation chk Com port No in Device Manger > Ports > 
+
+6.Open the Arduino software  select Board and com port no   From    TOOLS   
+
+
+If the chip is atmega 8  select----------------- Arduino NG or older w/ ATmega8
+
+If the chip is  atmega 328   select  - ----    Arduino Duemilanove or Nano w/ ATmega328
+
+
+
+
+********************************************************************************************************************
+
+
+	CUSTOMER SUPPORT
+	PH-080-41575115,Mob:09945263589,09740374373
+	FOR UPDATED SOFTWARE DOWNLOADS VISIT US AT: www.nskelectronics.in / com
+	for Support email to :info@nskelectronics.com ,kiran@nskelectronics.com
+
+	
+	
+**********************************************************************************************************************
+														
+
+

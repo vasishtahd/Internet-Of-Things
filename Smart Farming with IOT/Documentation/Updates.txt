@@ -1,0 +1,30 @@
+
+Things to do(Plan A)-
+ 
+	7th sem- 
+1st phase- only intro
+2nd phase- input sensor implementation and normal prototype 			working.(no o/p driving ckt)
+3rd phase- full implementation in output side(dc motor driving)
+		and basic IoT operation(data logging).
+ 
+   8th Sem- 
+1st phase- 
+2nd phase- 
+3rd phase- 
+4th phase- 
+5th phase- 
+
+
+
+
+Synopsis format- 
+
+
+
+
+
+
+
+1st phase presentation- 
+
+

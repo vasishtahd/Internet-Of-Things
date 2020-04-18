@@ -1,0 +1,100 @@
+1. Experimental investigation of remote control via Android smart phone of arduino-based automated irrigation system using moisture sensor-  
+
+Published in:
+2016 3rd International Conference on Electrical Energy Systems (ICEES)
+Date of Conference:
+17-19 March 2016
+Page(s):
+168 - 175
+INSPEC Accession Number:
+16142908
+Conference Location :
+Chennai
+DOI:
+10.1109/ICEES.2016.7510636
+Publisher:
+IEEE
+
+Climate change because of the greenhouse effect has been authenticated. Fallouts like the 2015 Chennai floods suggest techniques like precision agriculture that includes automation in the irrigation system are important. This paper suggests an economical and easy-to-use arduino-based automated irrigation system that utilizes the Android smart phone for remote control. The system design includes a soil moisture sensor that provides a voltage signal proportional to the moisture content in the soil which is compared with a predetermined threshold value obtained by sampling of various soils and specific crops. The outcome of the comparison is that appropriate data are fed to the arduino uno processor. The arduino is linked wirelessly via the HC-05 module to an Android smart phone. The data received by the Android smart phone from the arduino is displayed on the User Interface (UI) (S2 terminal application). The UI in the Android smart phone allows the user easy remote control of the irrigation drive system that involves switching, on and off, of the drive motor by the arduino, wired to its controller, based on commands from the android smart phone. Studies conducted on a laboratory prototype suggest that the design is viable and can be easily adopted for real time application.
+
+2. Smart drip irrigation system using raspberry pi and arduino- 
+Published in:
+Computing, Communication & Automation (ICCCA), 2015 International Conference on
+Date of Conference:
+15-16 May 2015
+Page(s):
+928 - 932
+Print ISBN:
+978-1-4799-8889-1
+INSPEC Accession Number:
+15260609
+Conference Location :
+Noida
+DOI:
+10.1109/CCAA.2015.7148526
+Publisher:
+IEEE
+
+This paper proposes a design for home automation system using ready-to-use, cost effective and energy efficient devices including raspberry pi, arduino microcontrollers, xbee modules and relay boards. Use of these components results in overall cost effective, scalable and robust implementation of system. The commands from the user are processed at raspberry pi using python programming language. Arduino microcontrollers are used to receive the on/off commands from the rasperry pi using zigbee protocol. Star zigbee topology serves as backbone for the communication between raspberry pi and end devices. Raspberry pi acts a central coordinator and end devices act as various routers. Low-cost and energy efficient drip irrigation system serves as a proof of concept. The design can be used in big agriculture fields as well as in small gardens via just sending an email to the system to water plants. The use of ultrasound sensors and solenoid valves make a smart drip irrigation system. The paper explains the complete installation of the system including hardware and software aspects. Experimental set-up is also tested and explained for an automatic drip irrigation system to water 50 pots.
+
+3. A low cost smart irrigation control system
+   Published in:
+Electronics and Communication Systems (ICECS), 2015 2nd International Conference on
+Date of Conference:
+26-27 Feb. 2015
+Page(s):
+1146 - 1152
+Print ISBN:
+978-1-4799-7224-1
+INSPEC Accession Number:
+15220176
+Conference Location :
+Coimbatore
+DOI:
+10.1109/ECS.2015.7124763
+Publisher:
+IEEE
+   This paper focus on a smart irrigation system which is cost effective and a middle class farmer use it in farm field. Today we are living in 21st century where automation is playing important role in human life. Automation allows us to control appliances automatic control. It not only provide comfort but also reduce energy, efficiency and time saving. Today industries are use automation and control machine which is high in cost and not suitable for using in a farm field. So here we also design a smart irrigation technology in low cost which is usable by Indian farmers. The objectives of this paper were to control the water motor automatically and select the direction of the flow of water in pipe with the help of soil moisture sensor. Finally send the information (operation of the motor and direction of water) of the farm field to the mobile message and g-mail account of the user.
+
+4. Novel, low cost remotely operated smart irrigation system
+ Published in:
+Industrial Instrumentation and Control (ICIC), 2015 International Conference on
+Date of Conference:
+28-30 May 2015
+Page(s):
+1501 - 1505
+INSPEC Accession Number:
+15291128
+Conference Location :
+Pune
+DOI:
+10.1109/IIC.2015.7150987
+Publisher:
+IEEE
+
+Agriculture plays very vital role in Indian economy. Near about 70% of Indian population directly depends on agriculture. The main aim of this paper is to provide new engineering technology in an agricultural area which enhances farmers life and Indian economy. Irrigation i.e. well-timed and ample amount of water supply is necessary for agriculture to increase its productivity. This paper develops a small embedded system device (ESD) which takes care of a whole irrigation process and makes farmers life easier. The PIC18F4550 microcontroller interfaced with GSM module works as a brain and several sensors like temperature, level and rain works as eyes of this ESD. The power detecting circuit and battery backup unit take this ESD to next level by informing presence of three phase power supply in the field. The farmer just needs to send predefined commands through SMS from her/his mobile phone to this ESD to carry out irrigation process effectively. If and only if eyes of the ESD sees all parameters are within a safe range, the PIC18F4550 starts irrigation process by starting the irrigation pump. The farmer gets time to time feedback from ESD through SMS about the action that has taken place by PIC18F4550. The GSM module allows farmers to operate and monitor a remotely placed irrigation pump from anywhere far from their field. The free SMS facilities provided to farmers makes it more cost effective. In this way, this new engineering technology makes farmers life easier by providing remotely operated, more efficient and cost effective irrigation system.
+
+
+5. DIY sensor-based automatic control mobile application for hydroponics
+
+Published in:
+2016 Fifth ICT International Student Project Conference (ICT-ISPC)
+Date of Conference:
+27-28 May 2016
+Page(s):
+57 - 60
+Print ISBN:
+978-1-5090-1123-0
+INSPEC Accession Number:
+16159853
+Conference Location :
+Nakhon Pathom
+DOI:
+10.1109/ICT-ISPC.2016.7519235
+Publisher:
+IEEE
+
+Hydroponics is a new popular technique of growing plants, especially in urban area, due to its many advantages over traditional soil based gardening. To apply affordable technology for managing and controlling hydroponics gardening, we developed a DIY sensor-based automatic control mobile application for hydroponics. The application enables automatic environmental control for hydroponics via different types of sensors including water temperature sensor, temperature and humidity sensor, and light intensity sensor. It also consists of the functions for planning, managing, as well as harvest data recording, of hydroponic gardening to fulfill the planting demands. The harvest data will be used for hydroponics planning in the next grow. In addition, users can monitor the plant growing progress remotely.
+
+
+

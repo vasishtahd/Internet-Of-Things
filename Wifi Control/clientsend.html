@@ -1,0 +1,13 @@
+<script>
+
+var xhr= new XMLHttpRequest();
+var url= "http://192.168.0.12/appliance1data";
+xhr.open("POST",url);
+var data={    name:"anyappliance1",
+	      status: "itsstatus" , 
+	      message:"itsmessage"      };
+xhr.send(JSON.stringify(data));
+
+console.log("DONE");
+
+</script>
